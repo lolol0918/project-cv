@@ -1,5 +1,7 @@
 // NavBar.jsx
-export default function NavBar({ tab, setTab }) {
+import { exportToPDF } from "../../helpers/pdfHelpers";
+
+export default function NavBar({ cvRef }) {
     return (
         <div className="bg-white border-b border-gray-200 px-6 py-3 flex items-center justify-between shadow-sm">
             <div className="flex items-center gap-3">
@@ -8,6 +10,19 @@ export default function NavBar({ tab, setTab }) {
                     Harvard OCS Template
                 </span>
             </div>
+            <button
+                onClick={() => {
+                    const cvNode = document.getElementById("cv-container");
+                    if (cvNode) {
+                        exportToPDF(cvNode, "my-cv.pdf");
+                    } else {
+                        console.warn("CV element not found!");
+                    }
+                }}
+                className="px-4 py-1.5 bg-indigo-500 text-white rounded hover:bg-indigo-600 text-sm font-medium"
+            >
+                Download PDF
+            </button>
         </div>
     );
 }
