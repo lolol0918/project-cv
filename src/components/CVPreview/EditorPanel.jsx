@@ -6,7 +6,7 @@ export default function EditorPanel({ data, setData, helpers }) {
     const { set, updateEdu, addEdu, removeEdu, updateExp, addExp, removeExp, updateLead, addLead, removeLead } = helpers;
 
     return (
-        <div className="overflow-y-auto p-4 w-full md:w-1/3">
+        <div className="w-full">
             <CollapsibleSection title="Personal Information" defaultOpen>
                 <Field label="First Name" value={data.firstName} onChange={(v) => set("firstName", v)} />
                 <Field label="Last Name" value={data.lastName} onChange={(v) => set("lastName", v)} />
