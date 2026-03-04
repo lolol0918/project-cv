@@ -45,12 +45,10 @@ export default function CVBuilder() {
     removeLead: helpers.removeLead(data, setData),
   };
 
-  const cvRef = useRef();
-
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col">
       {/* Navbar */}
-      <NavBar cvRef={cvRef} />
+      <NavBar data={data} />
       {/* Main content */}
       <div className="flex flex-col lg:flex-row flex-1">
         {/* Editor */}
