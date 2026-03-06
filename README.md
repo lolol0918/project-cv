@@ -1,15 +1,14 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
-<p align="center"><h1 align="center">PROJECT-CV.GIT</h1></p>
-<p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+    <img src="https://img.shields.io/badge/CV%20Builder-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="CV Builder" width="30%">
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/lolol0918/project-cv.git?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/lolol0918/project-cv.git?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/lolol0918/project-cv.git?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/lolol0918/project-cv.git?style=default&color=0080ff" alt="repo-language-count">
+	<em><code>Build your professional CV in React — fast, modern, and deployable!</code></em>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/license/lolol0918/project-cv?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+  <img src="https://img.shields.io/github/last-commit/lolol0918/project-cv?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+  <img src="https://img.shields.io/github/languages/top/lolol0918/project-cv?style=default&color=0080ff" alt="repo-top-language">
+  <img src="https://img.shields.io/github/languages/count/lolol0918/project-cv?style=default&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
@@ -36,15 +35,21 @@
 
 ---
 
-##  Overview
+## Overview
 
-<code>❯ REPLACE-ME</code>
+<code>Project-CV is a modern React-based CV builder that allows users to create, edit, and preview professional resumes in real time. It features a clean interface, live PDF export, and a responsive design suitable for both desktop and mobile.</code>
 
 ---
 
-##  Features
+## Features
 
-<code>❯ REPLACE-ME</code>
+<code>
+- Build and customize CV sections with a live preview
+- Edit bullet points and section content interactively
+- Export CVs as PDFs
+- Fully responsive layout for desktop and mobile
+- Built with React and Tailwind CSS for fast and modular development
+</code>
 
 ---
 
@@ -75,67 +80,67 @@
 ```
 
 
-###  Project Index
+### Project Index
 <details open>
 	<summary><b><code>PROJECT-CV.GIT/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
+	<details>
 		<summary><b>__root__</b></summary>
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/postcss.config.js'>postcss.config.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/postcss.config.js'>postcss.config.js</a></b></td>
+				<td><code>PostCSS configuration for Tailwind CSS processing</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/package-lock.json'>package-lock.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/package-lock.json'>package-lock.json</a></b></td>
+				<td><code>Auto-generated lock file for npm dependencies</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/tailwind.config.js'>tailwind.config.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/tailwind.config.js'>tailwind.config.js</a></b></td>
+				<td><code>Tailwind CSS configuration file</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/vite.config.js'>vite.config.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/vite.config.js'>vite.config.js</a></b></td>
+				<td><code>Vite build and development server configuration</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/package.json'>package.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/package.json'>package.json</a></b></td>
+				<td><code>Project metadata and npm scripts</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/index.html'>index.html</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/index.html'>index.html</a></b></td>
+				<td><code>Main HTML entry point of the app</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/eslint.config.js'>eslint.config.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/eslint.config.js'>eslint.config.js</a></b></td>
+				<td><code>ESLint configuration for code linting</code></td>
 			</tr>
 			</table>
 		</blockquote>
 	</details>
-	<details> <!-- src Submodule -->
+	<details>
 		<summary><b>src</b></summary>
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/index.css'>index.css</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/index.css'>index.css</a></b></td>
+				<td><code>Global CSS styles</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/App.css'>App.css</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/App.css'>App.css</a></b></td>
+				<td><code>App-specific CSS</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/App.jsx'>App.jsx</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/App.jsx'>App.jsx</a></b></td>
+				<td><code>Main React component rendering the app</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/main.jsx'>main.jsx</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/main.jsx'>main.jsx</a></b></td>
+				<td><code>React entry point for mounting the app</code></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/CVBuilder.jsx'>CVBuilder.jsx</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/CVBuilder.jsx'>CVBuilder.jsx</a></b></td>
+				<td><code>Component for building and editing CV sections</code></td>
 			</tr>
 			</table>
 			<details>
@@ -143,20 +148,20 @@
 				<blockquote>
 					<table>
 					<tr>
-						<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/components/CollapsibleSection.jsx'>CollapsibleSection.jsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/components/CollapsibleSection.jsx'>CollapsibleSection.jsx</a></b></td>
+						<td><code>Reusable collapsible UI section</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/components/Header.jsx'>Header.jsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/components/Header.jsx'>Header.jsx</a></b></td>
+						<td><code>App header component with title and nav</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/components/BulletsEditor.jsx'>BulletsEditor.jsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/components/BulletsEditor.jsx'>BulletsEditor.jsx</a></b></td>
+						<td><code>Component to edit bullet points in CV sections</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/components/Field.jsx'>Field.jsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/components/Field.jsx'>Field.jsx</a></b></td>
+						<td><code>Reusable input field component</code></td>
 					</tr>
 					</table>
 					<details>
@@ -164,32 +169,32 @@
 						<blockquote>
 							<table>
 							<tr>
-								<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/components/CVPreview/NavBar.jsx'>NavBar.jsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/components/CVPreview/NavBar.jsx'>NavBar.jsx</a></b></td>
+								<td><code>Top navigation bar in CV preview</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/components/CVPreview/TwoCol.jsx'>TwoCol.jsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/components/CVPreview/TwoCol.jsx'>TwoCol.jsx</a></b></td>
+								<td><code>Two-column layout for CV sections</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/components/CVPreview/BulletList.jsx'>BulletList.jsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/components/CVPreview/BulletList.jsx'>BulletList.jsx</a></b></td>
+								<td><code>Displays bullet points in CV preview</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/components/CVPreview/SkillRow.jsx'>SkillRow.jsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/components/CVPreview/SkillRow.jsx'>SkillRow.jsx</a></b></td>
+								<td><code>Displays individual skill with rating</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/components/CVPreview/CVPreview.jsx'>CVPreview.jsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/components/CVPreview/CVPreview.jsx'>CVPreview.jsx</a></b></td>
+								<td><code>Full CV preview component</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/components/CVPreview/Section.jsx'>Section.jsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/components/CVPreview/Section.jsx'>Section.jsx</a></b></td>
+								<td><code>Individual CV section in preview</code></td>
 							</tr>
 							<tr>
-								<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/components/CVPreview/EditorPanel.jsx'>EditorPanel.jsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
+								<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/components/CVPreview/EditorPanel.jsx'>EditorPanel.jsx</a></b></td>
+								<td><code>Panel for editing CV content in preview</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -201,12 +206,12 @@
 				<blockquote>
 					<table>
 					<tr>
-						<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/helpers/cvHelpers.js'>cvHelpers.js</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/helpers/cvHelpers.js'>cvHelpers.js</a></b></td>
+						<td><code>Helper functions for CV data manipulation</code></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/lolol0918/project-cv.git/blob/master/src/helpers/pdfHelpers.js'>pdfHelpers.js</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
+						<td><b><a href='https://github.com/lolol0918/project-cv/blob/master/src/helpers/pdfHelpers.js'>pdfHelpers.js</a></b></td>
+						<td><code>Helper functions for PDF export</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -262,31 +267,9 @@ Run project-cv.git using the following command:
 ❯ npm start
 ```
 
-
-###  Testing
-Run the test suite using the following command:
-**Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
-
-```sh
-❯ npm test
-```
-
-
----
-##  Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
 ---
 
 ##  Contributing
-
-- **💬 [Join the Discussions](https://github.com/lolol0918/project-cv.git/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/lolol0918/project-cv.git/issues)**: Submit bugs found or log feature requests for the `project-cv.git` project.
-- **💡 [Submit Pull Requests](https://github.com/lolol0918/project-cv.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-
 <details closed>
 <summary>Contributing Guidelines</summary>
 
@@ -312,26 +295,17 @@ Run the test suite using the following command:
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
 
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com{/lolol0918/project-cv.git/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=lolol0918/project-cv.git">
-   </a>
-</p>
-</details>
+---
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). For more details, see the [LICENSE](./LICENSE) file.
 
 ---
 
-##  License
+## Acknowledgments
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+- [The Odin Project](https://www.theodinproject.com/) — for the foundational guidance in building React projects and structuring apps.
+- [Tailwind CSS](https://tailwindcss.com/) — for the utility-first CSS framework used for styling.
+- [Shields.io](https://shields.io/) — for the GitHub badges in this README.
 
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
----
