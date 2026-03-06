@@ -4,16 +4,17 @@
 <p align="center">
 	<em><code>Build your professional CV in React — fast, modern, and deployable!</code></em>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/github/license/lolol0918/project-cv?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
   <img src="https://img.shields.io/github/last-commit/lolol0918/project-cv?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
   <img src="https://img.shields.io/github/languages/top/lolol0918/project-cv?style=default&color=0080ff" alt="repo-top-language">
   <img src="https://img.shields.io/github/languages/count/lolol0918/project-cv?style=default&color=0080ff" alt="repo-language-count">
 </p>
-<p align="center"><!-- default option, no dependency badges. -->
-</p>
 <p align="center">
-	<!-- default option, no dependency badges. -->
+  <a href="https://project-cv-neon.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
 </p>
 <br>
 
